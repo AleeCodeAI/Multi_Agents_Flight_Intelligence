@@ -1,0 +1,46 @@
+# === Core Utilities ===
+python-dotenv
+requests
+numpy
+pandas
+ipython
+ipykernel
+
+# === OpenAI + Google Models ===
+openai
+google-generativeai
+langchain-google-genai
+
+# === LangChain Ecosystem ===
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+
+# === Vector Databases ===
+chromadb
+pinecone-client
+
+# === Embeddings ===
+sentence-transformers
+huggingface-hub
+transformers
+torch
+tokenizers
+
+# === Gradio ===
+gradio
+
+# === Streamlit ===
+streamlit
+
+# === File & Document Loaders ===
+unstructured
+pypdf
+python-docx
+pdfminer.six
+
+# === Misc ===
+markdown
